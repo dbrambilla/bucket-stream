@@ -10,12 +10,12 @@ multidict==3.3.2
 pipdeptree==0.10.1
 pyaml==17.10.0
 python-dateutil==2.6.1
-PyYAML==3.12
-requests==2.18.4
+PyYAML==5.4
+requests==2.20
 requests-file==1.4.2
 s3transfer==0.1.11
 six==1.11.0
 termcolor==1.1.0
 tldextract==2.2.0
-urllib3==1.22
+urllib3==1.26.5
 websocket-client==0.44.0
